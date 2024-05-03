@@ -6,7 +6,7 @@ import pandas as pd
 
 # Set the number of data points (N)
 N = 50
-m = 3  # Slope
+m = 1  # Slope
 c = 2  # Y-intercept
 
 def generate_data(N, c, m, noise_level=0.1):
