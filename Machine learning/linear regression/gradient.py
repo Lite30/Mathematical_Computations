@@ -2,7 +2,7 @@
 #Date   : 03/05/2024
 import points
 # Load the data from the CSV file
-data_df = points.pd.read_csv('random_data.csv')
+data_df = points.pd.read_csv('lite_data.csv')
 
 def gradient_descent(x, y, learning_rate, iterations):
     c = 0
