@@ -32,10 +32,11 @@ This repository contains code for a machine problem assignment from the Departme
 5. Run the Python scripts by executing the following command:
 
     ```
-    python points.py
-    python gradient.py
-    python plot.py
+    python3 points.py
+    python3 gradient.py
+    python3 plot.py
     ```
+  Alternatively, load the files in your preffered python IDE environment and run the files.
 
 6. The scripts will generate random data, perform gradient descent to find the best-fit line, and plot the data along with the model.
 
